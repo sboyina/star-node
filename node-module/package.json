@@ -1,8 +1,8 @@
 {
   "name": "star-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a static html server to ease the development of web clients.",
-  "main": "index.js",
+  "main": "main.js",
   "bin" : {
 	  "star-node" : "./bin/start-server.js"
   },
