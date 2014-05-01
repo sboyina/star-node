@@ -4,7 +4,7 @@
   "description": "a static html server to ease the development of web clients.",
   "main": "index.js",
   "bin" : {
-	  "easyhttp" : "./bin/start-server.js"
+	  "easy-http" : "./bin/start-server.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
