@@ -11,5 +11,5 @@ How to install
 How to start the server
 ========================
 1. Open a terminal or command prompt and navigate to the folder from which files have to be served.
-2. Then, type command 'easy-http {port}'. (if port number is given, then server will run the specified port. or by default on 80).
+2. Then, type command 'easy-http {port}'. (if port number is given, then server will run on the specified port. or by default on 80).
 3. Open any browser and type the following url 'localhost:{port}'.
