@@ -8,7 +8,7 @@ How to install
 2. Open a terminal or command prompt and give 'npm install -g star-node'.
 
 
-How to start the server
+How to start star-node
 ========================
 1. Open a terminal or command prompt and navigate to the folder from which files have to be served.
 2. Then, type command 'star-node {port}'. (if port number is given, then server will run on the specified port. or by default on 80).
