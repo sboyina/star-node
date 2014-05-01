@@ -4,7 +4,7 @@ For developing a web client or website, web developers often need a http server.
 
 How to install
 ==============
-1. If node is present on your system, then download and install node from http://nodejs.org/
+1. If nodejs is not present on your system, then download and install node from http://nodejs.org/
 2. Open a terminal or command prompt and give 'node install -g easy-http'.
 
 
